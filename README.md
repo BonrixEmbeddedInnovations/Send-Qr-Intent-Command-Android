@@ -20,6 +20,11 @@ The `CommandIntentApp` is designed to interact with other Android apps by sendin
 - **Custom Dialog**: A custom dialog is available to input and send payment amounts.
 - **Multiple Colored Buttons**: Buttons with different colors are available for various actions, making the interface visually distinct.
 
+## Screenshots
+![Splash Screen](https://github.com/user-attachments/assets/8c4df24d-85cd-45d2-aacb-8a960f2b4ef2)
+![Main Screen](https://github.com/user-attachments/assets/2b206858-85ed-482c-87db-defd2b2eab16)
+![Custom Dialog](https://github.com/user-attachments/assets/dd575833-da0b-4a10-9f0c-1933b4457b38)
+
 ## Prerequisites
 
 - Android Studio
