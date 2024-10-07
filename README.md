@@ -31,7 +31,7 @@ The `CommandIntentApp` is designed to interact with other Android apps by sendin
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/username/CommandIntentApp.git
+    git clone [https://github.com/username/CommandIntentApp.git](https://github.com/BonrixEmbeddedInnovations/Send-Qr-Intent-Command-Android)
     ```
 2. Open the project in Android Studio.
 3. Sync the project to install required dependencies.
